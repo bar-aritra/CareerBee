@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What is CareerBee?",
+        "answer": "CareerBee is a job portal that connects job seekers with employers, providing a platform for job listings, applications, and hiring processes."
+    },
+    {
+        "question": "How do I create an account?",
+        "answer": "To create an account, click on the 'Sign Up' button on the homepage, fill in your details, and follow the instructions to complete the registration process."
+    },
+    {
+        "question": "How can I apply for jobs?",
+        "answer": "Once you have created an account, you can browse job listings and apply directly through the portal by clicking on the 'Apply' button for each job. You may need to upload your resume and fill out additional information as required by the employer."
+    },
+    {
+        "question": "What types of jobs are available?",
+        "answer": "CareerBee features a wide range of job listings across various industries, including full-time, part-time, freelance, and internship opportunities."
+    },
+    {
+        "question": "How can employers post jobs?",
+        "answer": "Employers can post jobs by creating an employer account and using the 'Post a Job' feature to list their vacancies."
+    },
+    {
+        "question": "How do I track my job applications?",
+        "answer": "You can track your job applications by logging into your account and visiting the 'My Applications' section, where you can see the status of your applications and any responses from employers."
+    }
+]
